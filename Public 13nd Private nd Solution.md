@@ -14,7 +14,7 @@ We selected two versions by increasing the variety of models and models with the
 **Submission2 (Highest LB)** 
 
 - Public LB : 908 Private LB : 
-- Inference Code : https://www.kaggle.com/chocozzz/eff-reg?scriptVersionId=54609039
+- Inference Code : https://www.kaggle.com/chocozzz/sub4-effx3-regx3-tta-3?scriptVersionId=54655742
 
 ![Submission2](https://drive.google.com/uc?export=view&id=1E7VLM2oUsKUCeVpe9XYcDTocuTFzvlKY)
 
