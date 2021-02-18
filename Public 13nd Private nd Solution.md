@@ -94,6 +94,6 @@ We selected two versions by increasing the variety of models and models with the
 
 You can see our All Training code in the GitHub below. 
 
-- GitHub : 
+- GitHub : https://github.com/choco9966/Cassava-Leaf-Disease-Classification
 
 Lastly, I would like to say thank you to the team members who worked hard for 2 months.@Minyong Shin @bellwood @hihunjin @CY Sohn
