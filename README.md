@@ -7,7 +7,7 @@ Identify the type of disease present on a Cassava Leaf image
 
 ![](https://drive.google.com/uc?export=view&id=1JRuoN2D1g9VADhwvxFBsfDIV77BknY0K)
 
-## Result 
+## Result  (Public 13nd Private 184nd)
 
 |   submission   | Public LB | Rank | Private LB | Rank |
 | :------------: | :-------: | :--: | :--------: | :--: |
@@ -16,6 +16,6 @@ Identify the type of disease present on a Cassava Leaf image
 |   VIT_16_384   |   0.902   |      |   0.894    |      |
 |  Distillation  |     -     |  -   |     -      |  -   |
 |     NFNet      |   0.899   |      |   0.894    |      |
-|   Ensemble1    |   0.904   |      |   0.898    |      |
+|   Ensemble1    |   0.904   |      |   0.899    | 184  |
 |   Ensemble2    |   0.908   |  13  |   0.897    |      |
 
