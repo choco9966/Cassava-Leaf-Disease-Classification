@@ -9,14 +9,14 @@ We selected two versions by increasing the variety of models and models with the
 - Public LB : 904 Private LB : 899
 - Inference Code : https://www.kaggle.com/hihunjin/avengers-assemble-3-model10-tta2?scriptVersionId=54655767
 
-![Submission1](https://drive.google.com/uc?export=view&id=1YZeUvpodpPbkXaMII2EysQYRgm8-fSBF)
+![Submission1](https://drive.google.com/uc?export=view&id=1JRuoN2D1g9VADhwvxFBsfDIV77BknY0K)
 
 **Submission2 (Highest LB)** 
 
 - Public LB : 908 Private LB : 897
 - Inference Code : https://www.kaggle.com/chocozzz/sub4-effx3-regx3-tta-3?scriptVersionId=54655742
 
-![Submission2](https://drive.google.com/uc?export=view&id=1E7VLM2oUsKUCeVpe9XYcDTocuTFzvlKY)
+![Submission2](https://drive.google.com/uc?export=view&id=1QtU3t9qS2g96fuxRBKKsSqWIM9zcwfiZ)
 
 ### 2. Tricks or Magics 
 
