@@ -1,0 +1,27 @@
+## Top Solutions
+
+- 2nd : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220898
+- 3rd : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/221150
+- 5th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/221249
+- 7th(71th) : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220735
+- 8th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220994
+- 10th(23rd) : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220788
+- 11th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220934
+- 13th(52th) : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220682
+- 14th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220751
+- 16th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/221113
+- 17th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220625
+- 18th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220889
+- 25th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/221116
+- 28th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220599#1211000
+- 29th(3rd) : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220841
+- 32nd : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220813
+- 34th(30th) : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220749
+- 35th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220813
+- 36th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220628
+- 37th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220969
+- 40th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220900
+- 45th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220632
+- 77th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220624
+- 78th : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220742
+- 606th(34th) : https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220640
